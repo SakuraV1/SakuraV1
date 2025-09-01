@@ -1,0 +1,48 @@
+🌐 Operation One Cheat Overview — Open Testing Build - by Sakura ( this overview is made by ai cz im lazy )
+
+
+🎯 ESP Features
+Character Outline ESP Displays a custom outline around enemy players. Does not reflect prone/crouch states or movement—purely positional.
+
+
+ESP Line Draws a direct line from the center of your screen to the target’s body for instant location tracking.
+
+Look Line Projects a line from the player’s head in the direction they’re facing. Height of the line dynamically reflects crouch or prone status.
+
+Billboard Shows player username and distance (in studs). Clean, readable, and always centered above the target.
+
+
+🛠️ Cheat Menu & Toggles
+Menu Access Press Right Shift to open the cheat menu. Note: Menu is inaccessible during active rounds due to first-person lock.
+
+
+Color Changer Randomizes colors for all ESP elements except the billboard. Adds flair without sacrificing readability.
+
+Friendly ESP Toggle Global toggle to enable/disable ESP for friendly players.
+
+Individual Toggles
+
+ESP Toggle: Master switch for character outlines
+
+ESP Line Toggle: Show/hide screen-to-body lines
+
+Look Line Toggle: Enable/disable directional indicators
+
+Billboard Toggle: Toggle player info display
+
+
+🧪 Development Notes
+No Info Grabber This cheat does not collect or transmit player data. Purely visual enhancements.
+
+
+Leaderboard Conflict Running the cheat may override the custom leaderboard GUI, reverting to Roblox’s default. This is a known GUI limitation.
+
+Prone/Crouch Detection Still under investigation. Current workaround uses look line height as an indirect indicator.
+
+Custom ESP Model The outline is not based on the native character model. It’s a hand-crafted proxy built through trial and error.
+
+Version Status This is the first iteration of the ESP system. Expect improvements in accuracy, performance, and visual fidelity over time.
+
+
+📬 Contact
+For any reason, feel free to DM me on Discord: Username: sakuracheats
